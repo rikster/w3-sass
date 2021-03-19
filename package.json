@@ -1,0 +1,18 @@
+{
+  "name": "w3-sass",
+  "version": "1.0.0",
+  "description": "messing w/ sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass1": "sass --watch variables/1.scss variables/1.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "w3-sass"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
